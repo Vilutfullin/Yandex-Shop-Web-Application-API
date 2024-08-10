@@ -29,5 +29,5 @@
 
 Порядок выполнения учебного проекта:
 1. Составил <a href="https://docs.google.com/spreadsheets/d/1-TpLKPAS-py8tOhkbx4CT_t2Gl5vJORrLs0RnqrJhWo/edit?gid=2006427015#gid=2006427015">тестовую документацию</a> для API
-2. Протестировал API через <a href="https://web.postman.co/workspace/My-Workspace~b153c951-deb8-4924-8bfa-96808aac3187/collection/36293727-2cd5aa45-0478-4c59-b2ae-522a3f5ad6b5">Postman</a>
+2. Протестировал API через <a href="https://disk.yandex.ru/a/i6iASdlAVjnQDQ">Postman</a>
 3. Завел найденные ошибки в <a href="https://vil.youtrack.cloud/issues?q=tag:%20%7BSprint%204%7D">YouTrack</a>
